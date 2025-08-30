@@ -1,0 +1,29 @@
+// Sitio web oficial de JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+// Comentario de una sola línea
+
+/* Comentario
+   de varias
+   líneas */
+// Variable
+let edad = 20;
+
+// Constante
+const PI = 3.1416;
+
+// Número (entero y decimal son el mismo tipo en JS)
+let edad = 20;
+let pi = 3.1416;
+
+// Cadena de texto
+let nombre = "Cristian";
+
+// Booleano
+let esEstudiante = true;
+
+// Undefined
+let indefinido;
+
+// Null
+let vacio = null;
+
+console.log("¡Hola, JavaScript!");
